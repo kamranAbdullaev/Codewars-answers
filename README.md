@@ -1,2 +1,2 @@
-# interview-tasks
+# Interview-Tasks
 interview tasks in JavaScript
