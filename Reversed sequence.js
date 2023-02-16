@@ -5,6 +5,9 @@ Example : n=5 --> [5,4,3,2,1]
 
 */
 
+// Сылка на катту: https://www.codewars.com/kata/5a00e05cc374cb34d100000d/train/javascript
+//Решение 1:
+
 const reverseSeq = n => {
   let arr = [];
   for (let i = n; i > 0; i--) {
