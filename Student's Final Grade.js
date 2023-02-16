@@ -27,6 +27,9 @@ Examples(Inputs-->Output):
 
 */
 
+// Сылка на катту:  https://www.codewars.com/kata/5ad0d8356165e63c140014d4/train/javascript
+//Решение 1:
+
 function finalGrade(exam, projects) {
   if (exam > 90 || projects > 10) {
     return 100;
