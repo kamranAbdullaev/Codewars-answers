@@ -32,4 +32,4 @@ class SmallestIntegerFinder2 {
     }
     return currentMin;
   }
-}
+
