@@ -1,5 +1,7 @@
 let input1 = [[1,3],[2,6],[8,10],[15,18]];
 let input2 = [[1, 4], [4, 5]];
+let input3 = [[1, 4], [4, 5], [8, 4]];
+
 
 function merge(inter) {
   if (inter.length < 2) {
@@ -23,6 +25,8 @@ for (const interval of inter) {
 
 console.log(merge(input1));
 console.log(merge(input2));
+console.log(merge(input3));
+
 // --------------------------------------------------------
 let inputOne = [[1, 3], [3, 6], [8, 10], [10, 18],[19,25],[35,48],[52,120],[120,150]];
 let inputTwo = [[1, 4], [4, 5]];
