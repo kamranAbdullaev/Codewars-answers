@@ -1,5 +1,4 @@
 
-Codewars JavaScript Answers
 <div align="center">
 <h1>Codewars JavaScript Answers</h1>
 </div>
