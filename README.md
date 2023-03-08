@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-<h3>Codewars JavaScript Answers</h3>
+[My Codewars](https://icons8.com/icon/e2cNCby2DRXJ/codewars "My Codewars")
 </div>
