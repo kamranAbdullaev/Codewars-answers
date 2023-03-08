@@ -1,4 +1,4 @@
-<div align="center">
+# <div align="center">
 <a href=""><img src="https://readme-typing-svg.herokuapp.com?font=Lime&size=40&duration=1&pause=10&color=4E8356&background=FFFE7A&center=true&vCenter=true&width=700&lines=Codewars+JavaScript+Answers" alt="Typing SVG" /></a>
 </div>
 
