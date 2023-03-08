@@ -4,5 +4,5 @@
 </div>
 
 <div align="center">
-[My Codewars](https://icons8.com/icon/e2cNCby2DRXJ/codewars "My Codewars")
+<a href="https://www.codewars.com/users/KamranAbdullaev">My Codewars</a>
 </div>
